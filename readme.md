@@ -33,7 +33,7 @@ A powerful, browser-based vocabulary learning tool designed specifically for GRE
 ## 🚀 Getting Started
 
 ### Download
-📥 **[Download GRE Vocabulary Assistant](path/to/your/file/GREvocaAssistant.html)**
+📥 **[Download GRE Vocabulary Assistant](https://github.com/wunaiwuhuang/GREvocaAssistant/blob/master/GREvocaAssistant.html)**
 
 ### Installation
 1. Download the HTML file to your computer
