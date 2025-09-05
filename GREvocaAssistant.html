@@ -416,7 +416,7 @@
             }
             
             const newWord = {
-                id: Date.now(),
+                id: crypto.randomUUID(),//希望不会重复
                 word: word,
                 meaning: meaning,
                 level: 0, // 记忆等级（0-8）(MEMORY_INTERVALS.length-1)
