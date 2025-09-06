@@ -1,0 +1,3937 @@
+{
+  "version": "1.0",
+  "exportTime": "2025-09-06T12:28:31.169Z",
+  "totalWords": 393,
+  "data": [
+    {
+      "id": "1149952b-a158-436f-ac5b-459aa60b3434",
+      "word": "divulge",
+      "meaning": "泄露",
+      "level": 5,
+      "lastReview": 1757156596863,
+      "nextReview": 1757242996863,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "35c6199b-028e-4cc7-94cf-8fe20f260f48",
+      "word": "inadvertent",
+      "meaning": "不故意的，粗心的",
+      "level": 3,
+      "lastReview": 1757157556684,
+      "nextReview": 1757164756684,
+      "reviewCount": 8,
+      "mastered": false
+    },
+    {
+      "id": "2dc39b3b-c4d4-4a8e-be1d-f5836c374c13",
+      "word": "panegyric",
+      "meaning": "赞美，赞美的",
+      "level": 4,
+      "lastReview": 1757157645734,
+      "nextReview": 1757179245734,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "545612c7-1308-49af-b08a-8132754aa259",
+      "word": "draconian",
+      "meaning": "极其严苛的",
+      "level": 4,
+      "lastReview": 1757156245032,
+      "nextReview": 1757177845032,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "025642cc-0c8c-4f9e-bf79-1e128bf14919",
+      "word": "hodgepodge",
+      "meaning": "混合物",
+      "level": 4,
+      "lastReview": 1757156654379,
+      "nextReview": 1757178254379,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "1e8b5580-22a8-4761-8a6c-0a2adfe05276",
+      "word": "incontrovertible",
+      "meaning": "不容置疑的",
+      "level": 5,
+      "lastReview": 1757157019796,
+      "nextReview": 1757243419796,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "5d48575f-1644-4500-b5de-0ed7e70fc934",
+      "word": "impartial",
+      "meaning": "公正的",
+      "level": 3,
+      "lastReview": 1757061756881,
+      "nextReview": 1757068956881,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "358070b8-a452-45e5-9090-e5e930b7a9a0",
+      "word": "endemic",
+      "meaning": "地方性的，流行的，常见的",
+      "level": 4,
+      "lastReview": 1757157078052,
+      "nextReview": 1757178678052,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "14b37b86-0b38-45da-ba2f-9a42b69c310b",
+      "word": "minuscule",
+      "meaning": "微小的",
+      "level": 4,
+      "lastReview": 1757158399435,
+      "nextReview": 1757179999435,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "c3b4e9f0-a648-4c4d-b533-d3c3688c2e4b",
+      "word": "lucrative",
+      "meaning": "赚钱的",
+      "level": 8,
+      "lastReview": 1757063287704,
+      "nextReview": 1758272887704,
+      "reviewCount": 22,
+      "mastered": true
+    },
+    {
+      "id": "5da3d569-97cc-495b-9fcd-dc1983813821",
+      "word": "compensate",
+      "meaning": "补偿抵消",
+      "level": 4,
+      "lastReview": 1757158054518,
+      "nextReview": 1757179654518,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "9537b138-57e9-4a26-b33b-8209895c2e61",
+      "word": "discursive",
+      "meaning": "杂乱无章的，理性的",
+      "level": 4,
+      "lastReview": 1757156787587,
+      "nextReview": 1757178387587,
+      "reviewCount": 7,
+      "mastered": false
+    },
+    {
+      "id": "660c3214-aedb-40e8-8d59-b34d208af31c",
+      "word": "presuppose",
+      "meaning": "假定",
+      "level": 5,
+      "lastReview": 1757158072890,
+      "nextReview": 1757244472890,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "98c2bb71-8ab7-4d10-b7ef-05c946896e50",
+      "word": "intermediary",
+      "meaning": "中间人",
+      "level": 4,
+      "lastReview": 1757158900526,
+      "nextReview": 1757180500526,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "2be4967d-cedf-4d17-8105-16953b661b12",
+      "word": "derogate",
+      "meaning": "贬低，贬低的",
+      "level": 3,
+      "lastReview": 1757156699856,
+      "nextReview": 1757163899856,
+      "reviewCount": 10,
+      "mastered": false
+    },
+    {
+      "id": "8b980ec2-d778-46b3-970b-b00b3a8ec1e2",
+      "word": "overbearing",
+      "meaning": "霸道总裁的",
+      "level": 5,
+      "lastReview": 1757156688713,
+      "nextReview": 1757243088713,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "44792701-23e7-4e34-ab70-a8df748745d6",
+      "word": "zealous",
+      "meaning": "狂热的",
+      "level": 5,
+      "lastReview": 1757157654597,
+      "nextReview": 1757244054597,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "11d8348c-c1ec-4c73-94ff-31ef2f392a83",
+      "word": "extraneous",
+      "meaning": "不重要的，不相关的，外部的",
+      "level": 4,
+      "lastReview": 1757157593654,
+      "nextReview": 1757179193654,
+      "reviewCount": 7,
+      "mastered": false
+    },
+    {
+      "id": "f4e2046e-d6f0-44d0-bed3-81995415aac3",
+      "word": "rehash",
+      "meaning": "重提",
+      "level": 5,
+      "lastReview": 1757157514961,
+      "nextReview": 1757243914961,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "9b66dd84-33e0-47ce-b63d-0fb70d11375f",
+      "word": "perfunctory",
+      "meaning": "不走心的",
+      "level": 2,
+      "lastReview": 1757065255971,
+      "nextReview": 1757068855971,
+      "reviewCount": 7,
+      "mastered": false
+    },
+    {
+      "id": "39d3ed03-32b1-405a-ab59-148a7abd33aa",
+      "word": "compound",
+      "meaning": "混合，使变糟糕",
+      "level": 4,
+      "lastReview": 1757062695834,
+      "nextReview": 1757084295834,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "083c2f20-8f82-4336-9687-7fa32dc41383",
+      "word": "envy",
+      "meaning": "嫉妒",
+      "level": 5,
+      "lastReview": 1757159138097,
+      "nextReview": 1757245538097,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "beb8d2cd-4c76-4d3e-b7f5-f0beb7319861",
+      "word": "defensive",
+      "meaning": "防御的，被动防守",
+      "level": 5,
+      "lastReview": 1757158884105,
+      "nextReview": 1757245284105,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "381bd921-6497-4663-b2a7-2f5e53f51a6d",
+      "word": "unbounded",
+      "meaning": "不受限制的",
+      "level": 3,
+      "lastReview": 1757061600475,
+      "nextReview": 1757068800475,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "209a3c80-bd90-4ae0-b981-b26cccddede9",
+      "word": "specious",
+      "meaning": "似是而非的",
+      "level": 5,
+      "lastReview": 1757157466101,
+      "nextReview": 1757243866101,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "65aa24a0-df9b-4121-8e3b-b033e9b903cc",
+      "word": "aimless",
+      "meaning": "漫无目的的",
+      "level": 4,
+      "lastReview": 1757158157480,
+      "nextReview": 1757179757480,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "078db143-ea39-4e37-bcda-443a89fb08f2",
+      "word": "ingenuous",
+      "meaning": "纯朴的，真诚的",
+      "level": 4,
+      "lastReview": 1757156639772,
+      "nextReview": 1757178239772,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "9678a921-7f78-4328-bb34-f2d31a2ed561",
+      "word": "intrinsic",
+      "meaning": "内在的核心的",
+      "level": 4,
+      "lastReview": 1757061665021,
+      "nextReview": 1757083265021,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "c5686413-75fe-411a-a842-ce6b15fa2e48",
+      "word": "inevitable",
+      "meaning": "不可避免的",
+      "level": 8,
+      "lastReview": 1757063285962,
+      "nextReview": 1758272885962,
+      "reviewCount": 15,
+      "mastered": true
+    },
+    {
+      "id": "3bd728ba-81c4-4bcf-ba9e-16e64633f540",
+      "word": "intransigent",
+      "meaning": "固执的不妥协的",
+      "level": 4,
+      "lastReview": 1757156889228,
+      "nextReview": 1757178489228,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "e7b6e5dd-319d-47cc-877f-d0715e6b5d22",
+      "word": "detached",
+      "meaning": "脱离的，公正的，不受感情左右的",
+      "level": 4,
+      "lastReview": 1757061230066,
+      "nextReview": 1757082830066,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "8efce880-8b04-42d5-b22e-7243a201184a",
+      "word": "inveterate",
+      "meaning": "一贯的",
+      "level": 2,
+      "lastReview": 1757065522819,
+      "nextReview": 1757069122819,
+      "reviewCount": 7,
+      "mastered": false
+    },
+    {
+      "id": "c2de4ff5-39b5-4ae8-9d2f-86ebef8cffc3",
+      "word": "backhanded",
+      "meaning": "不直接的，含沙射影的",
+      "level": 4,
+      "lastReview": 1757158313734,
+      "nextReview": 1757179913734,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "1a143623-b8d5-41e6-a9a2-a60aabbd3f23",
+      "word": "affable",
+      "meaning": "和蔼可亲的",
+      "level": 4,
+      "lastReview": 1757157838368,
+      "nextReview": 1757179438368,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "d8c51e3e-c998-4ec5-939f-436b947b6f82",
+      "word": "whimsy",
+      "meaning": "突发奇想，多变的",
+      "level": 3,
+      "lastReview": 1757060346058,
+      "nextReview": 1757067546058,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "e12d3a1a-05bd-4f4e-bec7-2a1a89e3aabe",
+      "word": "tanacious",
+      "meaning": "坚定的，持续的",
+      "level": 4,
+      "lastReview": 1757158704609,
+      "nextReview": 1757180304609,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "52d5c01d-f400-47d0-b966-4348d6aba4b7",
+      "word": "sardonic",
+      "meaning": "嘲笑的",
+      "level": 5,
+      "lastReview": 1757156445681,
+      "nextReview": 1757242845681,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "d3daff6a-09d7-425a-bd08-f6eb19dcc499",
+      "word": "skullduggery",
+      "meaning": "欺骗作假",
+      "level": 4,
+      "lastReview": 1757157916964,
+      "nextReview": 1757179516964,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "716e6c5b-3b7b-4489-8004-076169468e53",
+      "word": "legitimate",
+      "meaning": "合法合理的",
+      "level": 5,
+      "lastReview": 1757158404016,
+      "nextReview": 1757244804016,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "bd0b575a-1148-45b4-94b7-80578658e496",
+      "word": "plagiarize",
+      "meaning": "抄袭",
+      "level": 4,
+      "lastReview": 1757063180620,
+      "nextReview": 1757084780620,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "c027de1c-f9eb-44d9-98c6-214bc6254774",
+      "word": "disavow",
+      "meaning": "否认",
+      "level": 4,
+      "lastReview": 1757156572377,
+      "nextReview": 1757178172377,
+      "reviewCount": 7,
+      "mastered": false
+    },
+    {
+      "id": "c00b001b-bdd2-45d1-807b-ed4a291bcc27",
+      "word": "deplete",
+      "meaning": "耗尽",
+      "level": 4,
+      "lastReview": 1757156485233,
+      "nextReview": 1757178085233,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "c6885641-d85c-4bd9-a7f0-b33db8f5a656",
+      "word": "ridicule",
+      "meaning": "嘲笑耻笑",
+      "level": 4,
+      "lastReview": 1757156616712,
+      "nextReview": 1757178216712,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "6e44a81a-ac19-4530-929f-5a8e85ec192e",
+      "word": "undermine",
+      "meaning": "削弱",
+      "level": 2,
+      "lastReview": 1757157069455,
+      "nextReview": 1757160669455,
+      "reviewCount": 7,
+      "mastered": false
+    },
+    {
+      "id": "594fd2fd-fab2-478a-8638-112413cf3444",
+      "word": "self-serving",
+      "meaning": "自私的",
+      "level": 3,
+      "lastReview": 1757157080498,
+      "nextReview": 1757164280498,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "8b9c12bc-ef83-420f-8c37-0f4e41ef290b",
+      "word": "perishable",
+      "meaning": "易消亡的",
+      "level": 4,
+      "lastReview": 1757156714453,
+      "nextReview": 1757178314453,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "4c2041f7-f736-4fda-a17b-077fe4d62c26",
+      "word": "capricious",
+      "meaning": "变化多端的",
+      "level": 2,
+      "lastReview": 1757062978660,
+      "nextReview": 1757066578660,
+      "reviewCount": 7,
+      "mastered": false
+    },
+    {
+      "id": "ddec15f5-1780-48f1-9b6e-e8239481f36e",
+      "word": "egotism",
+      "meaning": "自大",
+      "level": 4,
+      "lastReview": 1757157376432,
+      "nextReview": 1757178976432,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "b6225ce5-4a5d-4e11-970a-0d8e7d002c73",
+      "word": "unqualified",
+      "meaning": "完全的，不合格的",
+      "level": 2,
+      "lastReview": 1757158223244,
+      "nextReview": 1757161823244,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "cd45fc12-1211-4d14-b188-273133d8e0e0",
+      "word": "magisterial",
+      "meaning": "权威的",
+      "level": 4,
+      "lastReview": 1757157914584,
+      "nextReview": 1757179514584,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "45c6223d-7b5c-4c7a-9b89-b4087e11ca72",
+      "word": "chauvinistic",
+      "meaning": "极度爱国的",
+      "level": 5,
+      "lastReview": 1757157033636,
+      "nextReview": 1757243433636,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "d25731fd-05bd-4a98-9739-9ef29017e269",
+      "word": "sleek",
+      "meaning": "光滑的，时髦的",
+      "level": 4,
+      "lastReview": 1757158436388,
+      "nextReview": 1757180036388,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "b91a5166-3e3e-4263-85da-5ab7282eec78",
+      "word": "astringent",
+      "meaning": "严厉的，尖刻的",
+      "level": 3,
+      "lastReview": 1757060875485,
+      "nextReview": 1757068075485,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "50c7b5ef-0b7f-45a3-a691-9245efab4f91",
+      "word": "ambivalent",
+      "meaning": "矛盾",
+      "level": 3,
+      "lastReview": 1757060515927,
+      "nextReview": 1757067715927,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "665cefd6-114d-4c49-baf5-18dc53424cc0",
+      "word": "ameliorate",
+      "meaning": "改善提升",
+      "level": 4,
+      "lastReview": 1757158760398,
+      "nextReview": 1757180360398,
+      "reviewCount": 7,
+      "mastered": false
+    },
+    {
+      "id": "3585d97b-b02e-4746-8356-04c21e4bb4b6",
+      "word": "exemplar",
+      "meaning": "典型",
+      "level": 5,
+      "lastReview": 1757156726184,
+      "nextReview": 1757243126184,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "64b69531-8987-433f-afd4-fab5cd719f07",
+      "word": "sweeping",
+      "meaning": "广泛的，全面的",
+      "level": 4,
+      "lastReview": 1757156519948,
+      "nextReview": 1757178119948,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "15fd5a32-d7af-4381-82bd-2ce344238015",
+      "word": "grudge",
+      "meaning": "不愿认可或承认，怨恨",
+      "level": 4,
+      "lastReview": 1757157628722,
+      "nextReview": 1757179228722,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "d0647e83-c1e3-4956-87b8-ab653bb89b95",
+      "word": "extripate",
+      "meaning": "根除",
+      "level": 2,
+      "lastReview": 1757065496578,
+      "nextReview": 1757069096578,
+      "reviewCount": 7,
+      "mastered": false
+    },
+    {
+      "id": "6831d085-be33-4249-94f8-e8cb4364ab44",
+      "word": "parity",
+      "meaning": "平等",
+      "level": 3,
+      "lastReview": 1757156609324,
+      "nextReview": 1757163809324,
+      "reviewCount": 8,
+      "mastered": false
+    },
+    {
+      "id": "0de81a1b-471f-490a-b923-57cf609e76bd",
+      "word": "utilitarian",
+      "meaning": "实用的，功利的，实用主义的",
+      "level": 3,
+      "lastReview": 1757060331625,
+      "nextReview": 1757067531625,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "b3478392-6d1b-4202-b7a0-2b918139e093",
+      "word": "elicit",
+      "meaning": "引起",
+      "level": 4,
+      "lastReview": 1757156510477,
+      "nextReview": 1757178110477,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "3c7d06fc-c6e1-43f1-a658-53eff8264198",
+      "word": "beneficial",
+      "meaning": "有益处的",
+      "level": 5,
+      "lastReview": 1757157517078,
+      "nextReview": 1757243917078,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "44394f86-30eb-4b86-b30c-27d0a7486652",
+      "word": "intoxicate",
+      "meaning": "陶醉，沉醉",
+      "level": 3,
+      "lastReview": 1757157028656,
+      "nextReview": 1757164228656,
+      "reviewCount": 8,
+      "mastered": false
+    },
+    {
+      "id": "b074baee-44c6-4abb-83c0-8d4cd9077ff1",
+      "word": "inchoate",
+      "meaning": "早期的，混乱的",
+      "level": 3,
+      "lastReview": 1757156703999,
+      "nextReview": 1757163903999,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "ec316e70-1fed-4f93-bb12-028ec0f7b8dc",
+      "word": "rebuff",
+      "meaning": "回复，拒绝",
+      "level": 4,
+      "lastReview": 1757157079104,
+      "nextReview": 1757178679104,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "215ac6c3-834e-4d9d-b2b9-4a42461164b2",
+      "word": "construe",
+      "meaning": "理解",
+      "level": 2,
+      "lastReview": 1757156923972,
+      "nextReview": 1757160523972,
+      "reviewCount": 9,
+      "mastered": false
+    },
+    {
+      "id": "4e71fa0a-74de-4c6d-b908-fedc31e8cb80",
+      "word": "fallacy",
+      "meaning": "谬误，错误的",
+      "level": 4,
+      "lastReview": 1757158311945,
+      "nextReview": 1757179911945,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "399d29ce-1b45-42ab-9341-f5cfc5eefdc4",
+      "word": "increment",
+      "meaning": "增长，增加的",
+      "level": 4,
+      "lastReview": 1757060268533,
+      "nextReview": 1757081868533,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "9a1343d8-68e5-48bb-a5a0-e6cae031c744",
+      "word": "deteriorate",
+      "meaning": "恶化",
+      "level": 5,
+      "lastReview": 1757156887478,
+      "nextReview": 1757243287478,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "482acaf2-92d4-4efa-bbc9-16092f466f3e",
+      "word": "grandiose",
+      "meaning": "宏伟壮观的，妄自尊大的",
+      "level": 3,
+      "lastReview": 1757061277599,
+      "nextReview": 1757068477599,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "8b15c17b-5dc8-4c4b-81ef-7ea8ef2ccf54",
+      "word": "truncate",
+      "meaning": "缩短",
+      "level": 5,
+      "lastReview": 1757157566322,
+      "nextReview": 1757243966322,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "732c4b56-104b-4dd9-99d0-2b7175670f8e",
+      "word": "haphazard",
+      "meaning": "无序的，凌乱的",
+      "level": 4,
+      "lastReview": 1757157549350,
+      "nextReview": 1757179149350,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "47391d6f-4a8a-45a7-86c8-2486b773a482",
+      "word": "quizzical",
+      "meaning": "好奇疑惑的",
+      "level": 4,
+      "lastReview": 1757158416978,
+      "nextReview": 1757180016978,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "102e499f-c0b3-4a53-9a54-9754faa34c24",
+      "word": "provincial",
+      "meaning": "眼光狭隘的，乡下的",
+      "level": 5,
+      "lastReview": 1757157861038,
+      "nextReview": 1757244261038,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "f1b4002d-bb52-481b-a59a-b65f17201912",
+      "word": "insensitive",
+      "meaning": "漠视的，不在乎的",
+      "level": 4,
+      "lastReview": 1757158927498,
+      "nextReview": 1757180527498,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "9ef662e2-5cf6-42e0-a7fd-7661113e94f5",
+      "word": "shackle",
+      "meaning": "阻碍",
+      "level": 3,
+      "lastReview": 1757159209926,
+      "nextReview": 1757166409926,
+      "reviewCount": 7,
+      "mastered": false
+    },
+    {
+      "id": "9c9994ed-c7c4-493a-bcd6-7e20dae7e5c3",
+      "word": "cumbersome",
+      "meaning": "笨拙的",
+      "level": 4,
+      "lastReview": 1757157478360,
+      "nextReview": 1757179078360,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "d357fcec-f8c0-4a39-b753-6156c6e27c9b",
+      "word": "encomium",
+      "meaning": "赞美",
+      "level": 3,
+      "lastReview": 1757161608966,
+      "nextReview": 1757168808966,
+      "reviewCount": 8,
+      "mastered": false
+    },
+    {
+      "id": "ac6103b8-6ea4-4d51-83b3-1abc6b7caff7",
+      "word": "decelerate",
+      "meaning": "减缓",
+      "level": 4,
+      "lastReview": 1757156920191,
+      "nextReview": 1757178520191,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "d9d8ae55-a0e8-4d70-92d6-0db39958a8e1",
+      "word": "revitalize",
+      "meaning": "使复活",
+      "level": 5,
+      "lastReview": 1757157624884,
+      "nextReview": 1757244024884,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "9bbd397a-382d-42cd-aa4a-af8cd577b39a",
+      "word": "indisputable",
+      "meaning": "不容置疑的",
+      "level": 4,
+      "lastReview": 1757159212649,
+      "nextReview": 1757180812649,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "13150d89-9b59-40e7-adf4-4149f7c6779f",
+      "word": "roost",
+      "meaning": "栖息",
+      "level": 4,
+      "lastReview": 1757156241045,
+      "nextReview": 1757177841045,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "03c67c0d-2d51-401e-a1fa-e5db578224f2",
+      "word": "corroborate",
+      "meaning": "佐证",
+      "level": 4,
+      "lastReview": 1757156422230,
+      "nextReview": 1757178022230,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "c0ffd2bf-ce8a-483c-b58b-97b3bcc758d9",
+      "word": "proclivity",
+      "meaning": "倾向偏好",
+      "level": 4,
+      "lastReview": 1757161599880,
+      "nextReview": 1757183199880,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "1d231b79-6b22-40bd-9ddb-a0e264a90c40",
+      "word": "hysteria",
+      "meaning": "情绪失控，举止失常",
+      "level": 5,
+      "lastReview": 1757158153956,
+      "nextReview": 1757244553956,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "caf81808-d877-4d42-83a0-584cd31a4080",
+      "word": "speculate",
+      "meaning": "推测",
+      "level": 4,
+      "lastReview": 1757156321967,
+      "nextReview": 1757177921967,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "2f328249-9ac5-4f2c-af18-47276781de5e",
+      "word": "conducive",
+      "meaning": "有益的，有帮助的",
+      "level": 5,
+      "lastReview": 1757157905314,
+      "nextReview": 1757244305314,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "4537f9b7-bebf-4f02-9948-54c4f9ed51fd",
+      "word": "vexation",
+      "meaning": "烦恼，使烦恼",
+      "level": 2,
+      "lastReview": 1757065227606,
+      "nextReview": 1757068827606,
+      "reviewCount": 8,
+      "mastered": false
+    },
+    {
+      "id": "f1dc148e-9c2b-44c6-9a1f-fc99dd6fa689",
+      "word": "disdain",
+      "meaning": "蔑视",
+      "level": 5,
+      "lastReview": 1757156424645,
+      "nextReview": 1757242824645,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "ff441219-fdcc-4dbc-857b-12c83efd6ec2",
+      "word": "caterwaul",
+      "meaning": "发出难听的声音，喧闹抗议抱怨",
+      "level": 4,
+      "lastReview": 1757156724650,
+      "nextReview": 1757178324650,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "1011e6ab-a6cf-4496-9742-9847c52b938e",
+      "word": "efficacious",
+      "meaning": "有效果的",
+      "level": 4,
+      "lastReview": 1757157622861,
+      "nextReview": 1757179222861,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "cbbd1672-453a-4a70-b791-e14b84263057",
+      "word": "alienate",
+      "meaning": "疏远",
+      "level": 5,
+      "lastReview": 1757156426333,
+      "nextReview": 1757242826333,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "96d9d1da-2adb-4c9c-9e05-94d9082003df",
+      "word": "analgesic",
+      "meaning": "止痛药",
+      "level": 4,
+      "lastReview": 1757157142418,
+      "nextReview": 1757178742418,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "49aa2952-5957-4de1-940a-2c7cb01cb5ec",
+      "word": "anatomize",
+      "meaning": "解剖分析",
+      "level": 5,
+      "lastReview": 1757156694866,
+      "nextReview": 1757243094866,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "3a920424-5ab9-49bf-a4ad-f77df3d9219c",
+      "word": "embargo",
+      "meaning": "贸易禁令",
+      "level": 5,
+      "lastReview": 1757158787865,
+      "nextReview": 1757245187865,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "c63aa8e3-a3ee-410d-b1aa-5f7be4eed122",
+      "word": "contemplate",
+      "meaning": "深入思考",
+      "level": 5,
+      "lastReview": 1757157030831,
+      "nextReview": 1757243430831,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "32bc0b33-971d-4eb0-afc7-65e0a4730743",
+      "word": "dogmatic",
+      "meaning": "教条的",
+      "level": 5,
+      "lastReview": 1757158953707,
+      "nextReview": 1757245353707,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "558628f7-e26b-4c32-ad85-e1a0e799db19",
+      "word": "concrete",
+      "meaning": "真实详细的",
+      "level": 4,
+      "lastReview": 1757158038078,
+      "nextReview": 1757179638078,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "29a13b6a-4982-413e-a0a1-c20cd38ad3d1",
+      "word": "equitable",
+      "meaning": "平等的",
+      "level": 4,
+      "lastReview": 1757157548043,
+      "nextReview": 1757179148043,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "48e74c73-db8c-495c-b4c2-790ab84bf872",
+      "word": "fervent",
+      "meaning": "情感强烈的，热烈的",
+      "level": 1,
+      "lastReview": 1757159174084,
+      "nextReview": 1757160974084,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "4636c3d0-80ce-4a5e-a9ae-8a3801106bed",
+      "word": "alleviate",
+      "meaning": "减轻",
+      "level": 3,
+      "lastReview": 1757158026278,
+      "nextReview": 1757165226278,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "a246451a-3145-4fb8-bacf-924d0cb01250",
+      "word": "contagious",
+      "meaning": "传染的",
+      "level": 0,
+      "lastReview": 1757158662163,
+      "nextReview": 1757159022163,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "51adc7bf-98fc-43bc-81b0-3acde137a826",
+      "word": "pedantic",
+      "meaning": "卖弄知识的",
+      "level": 1,
+      "lastReview": 1757063286702,
+      "nextReview": 1757668086702,
+      "reviewCount": 9,
+      "mastered": false
+    },
+    {
+      "id": "f4499d51-82c6-4519-a498-5ee212d4efd5",
+      "word": "unwieldy",
+      "meaning": "笨重的",
+      "level": 3,
+      "lastReview": 1757159018550,
+      "nextReview": 1757166218550,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "c17645a1-0928-4adb-9db3-184cec877d94",
+      "word": "vociferous",
+      "meaning": "吵吵嚷嚷的",
+      "level": 3,
+      "lastReview": 1757157979086,
+      "nextReview": 1757165179086,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "86c357fc-3443-476f-9f1a-52f9dff73054",
+      "word": "profess",
+      "meaning": "宣称",
+      "level": 3,
+      "lastReview": 1757157169260,
+      "nextReview": 1757164369260,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "fe9cebcd-0c71-4c7c-ae09-32afaca398ab",
+      "word": "obeisance",
+      "meaning": "尊敬",
+      "level": 2,
+      "lastReview": 1757159219794,
+      "nextReview": 1757162819794,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "a8a9cf7c-8f31-46a6-881d-ce7c4ff6f122",
+      "word": "diffuse",
+      "meaning": "分散的",
+      "level": 2,
+      "lastReview": 1757065439478,
+      "nextReview": 1757069039478,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "efd49b18-5228-464d-9a72-194e72351112",
+      "word": "fulminate",
+      "meaning": "抨击辱骂，斥责",
+      "level": 2,
+      "lastReview": 1757158025008,
+      "nextReview": 1757161625008,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "663d7327-d505-4846-8c38-bb560ecff7ba",
+      "word": "voluble",
+      "meaning": "健谈的",
+      "level": 3,
+      "lastReview": 1757156938134,
+      "nextReview": 1757164138134,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "577f3b77-e554-46ba-8d6e-da558ad9c81a",
+      "word": "sterling",
+      "meaning": "高质量的",
+      "level": 3,
+      "lastReview": 1757156815537,
+      "nextReview": 1757164015537,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "42caf1bb-f3c2-4ef9-96f2-9c6d6a03a075",
+      "word": "surmount",
+      "meaning": "克服战胜，站在顶峰",
+      "level": 3,
+      "lastReview": 1757156705412,
+      "nextReview": 1757163905412,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "ee7451e4-3230-4bf5-ba13-c3ad7e59ae33",
+      "word": "prying",
+      "meaning": "窥视的",
+      "level": 2,
+      "lastReview": 1757063089064,
+      "nextReview": 1757066689064,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "4f69e262-bc69-4e94-a5bf-f9ffd9f30768",
+      "word": "inhibit",
+      "meaning": "限制",
+      "level": 3,
+      "lastReview": 1757157516152,
+      "nextReview": 1757164716152,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "ced99eae-b9dc-401f-8928-b36077a105da",
+      "word": "censure",
+      "meaning": "批评，挑剔",
+      "level": 3,
+      "lastReview": 1757156677507,
+      "nextReview": 1757163877507,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "8dc1e911-812f-4ca8-8825-01526aa3be06",
+      "word": "peripatetic",
+      "meaning": "巡游的",
+      "level": 3,
+      "lastReview": 1757159048312,
+      "nextReview": 1757166248312,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "99751fc8-7613-4089-9e4c-eddaf2a16ecb",
+      "word": "stringent",
+      "meaning": "非常严格的",
+      "level": 3,
+      "lastReview": 1757157297466,
+      "nextReview": 1757164497466,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "f781d36b-0986-470f-aa0e-15e1179d41ed",
+      "word": "dwindle",
+      "meaning": "减少下降",
+      "level": 3,
+      "lastReview": 1757158425760,
+      "nextReview": 1757165625760,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "c12d6bf2-f3de-41df-8b72-8d241dffd9f0",
+      "word": "underrate",
+      "meaning": "低估",
+      "level": 3,
+      "lastReview": 1757156607160,
+      "nextReview": 1757163807160,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "aa2db64a-2ab2-4717-8a4b-816eba8d0860",
+      "word": "incursion",
+      "meaning": "侵入，进入",
+      "level": 3,
+      "lastReview": 1757156690900,
+      "nextReview": 1757163890900,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "6c88270d-bfed-41a5-bc4e-d615c56939e2",
+      "word": "pastiche",
+      "meaning": "模仿作品，混合物",
+      "level": 2,
+      "lastReview": 1757159241576,
+      "nextReview": 1757162841576,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "868f4e6e-5d16-4b3a-bbfa-fd16641e2d1a",
+      "word": "dishearten",
+      "meaning": "使士气低落",
+      "level": 3,
+      "lastReview": 1757161542268,
+      "nextReview": 1757168742268,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "1a9ae548-2839-45e8-889a-fae108525fc5",
+      "word": "emulate",
+      "meaning": "模仿，模仿赶超",
+      "level": 3,
+      "lastReview": 1757157140937,
+      "nextReview": 1757164340937,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "0df156a7-69c2-4c08-8920-8840c536e740",
+      "word": "adduce",
+      "meaning": "引用，证明",
+      "level": 3,
+      "lastReview": 1757157626776,
+      "nextReview": 1757164826776,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "1a5aa5c5-8c5e-4fbc-8067-1e192b486791",
+      "word": "emblematic",
+      "meaning": "象征的，代表的",
+      "level": 0,
+      "lastReview": 1757157936080,
+      "nextReview": 1757158296080,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "941e9589-dfc5-4816-a589-edfe6043adf2",
+      "word": "indict",
+      "meaning": "指控",
+      "level": 1,
+      "lastReview": 1757157852002,
+      "nextReview": 1757159652002,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "c2a1c8c4-92fe-4cee-a1c9-9781448e59f5",
+      "word": "discontinue",
+      "meaning": "终止",
+      "level": 3,
+      "lastReview": 1757157183806,
+      "nextReview": 1757164383806,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "04c8edcd-6150-42ef-b9bc-fa2837cd1627",
+      "word": "wary",
+      "meaning": "小心谨慎的",
+      "level": 4,
+      "lastReview": 1757158946847,
+      "nextReview": 1757180546847,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "66c6667a-d943-4f16-9c03-7646cfa56a34",
+      "word": "opprobrium",
+      "meaning": "辱骂",
+      "level": 3,
+      "lastReview": 1757157922356,
+      "nextReview": 1757165122356,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "165c77f0-0553-44f0-b290-dff912c5d282",
+      "word": "aesthetic",
+      "meaning": "美学的",
+      "level": 3,
+      "lastReview": 1757156470774,
+      "nextReview": 1757163670774,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "b91d7906-816a-4f7f-83e2-0e214b7e5993",
+      "word": "expedite",
+      "meaning": "加速加快",
+      "level": 2,
+      "lastReview": 1757062619139,
+      "nextReview": 1757066219139,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "c229e6aa-913a-453e-9c91-c8cb8e815011",
+      "word": "captivate",
+      "meaning": "吸引",
+      "level": 3,
+      "lastReview": 1757158162517,
+      "nextReview": 1757165362517,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "a3c8d4f3-9f05-4bc7-8082-0562c425aa1d",
+      "word": "irreversible",
+      "meaning": "不可逆的",
+      "level": 3,
+      "lastReview": 1757159215667,
+      "nextReview": 1757166415667,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "fb05ae94-f663-42e4-878b-4042980c9e4a",
+      "word": "emotive",
+      "meaning": "有感染力的",
+      "level": 2,
+      "lastReview": 1757065278517,
+      "nextReview": 1757068878517,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "18f21373-1afd-4c3b-bb6c-f7d0fadc9a30",
+      "word": "refine",
+      "meaning": "提纯，提高提升",
+      "level": 3,
+      "lastReview": 1757157669678,
+      "nextReview": 1757164869678,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "50be48cc-b7f1-470c-88a4-9581f3a2658e",
+      "word": "exhilarate",
+      "meaning": "使兴奋",
+      "level": 3,
+      "lastReview": 1757157780075,
+      "nextReview": 1757164980075,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "e6cf01e9-9e0e-4634-a638-a24aad258b0e",
+      "word": "solitary",
+      "meaning": "单独的",
+      "level": 3,
+      "lastReview": 1757159015005,
+      "nextReview": 1757166215005,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "2f70f155-e06a-423d-8e1d-d248bee51ff4",
+      "word": "jar",
+      "meaning": "使不安，冲突",
+      "level": 3,
+      "lastReview": 1757158568396,
+      "nextReview": 1757165768396,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "e43f390e-7aaf-4771-9487-995f56438a0b",
+      "word": "unfettered",
+      "meaning": "不受限制的",
+      "level": 3,
+      "lastReview": 1757158574939,
+      "nextReview": 1757165774939,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "7e2b9d7b-e8bf-4d13-95ef-497c2f0ff2e2",
+      "word": "flummery",
+      "meaning": "假恭维",
+      "level": 0,
+      "lastReview": 1757065444759,
+      "nextReview": 1757065804759,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "28fcdcdf-cede-434d-bf6d-0485fe98a970",
+      "word": "implacable",
+      "meaning": "不能安抚，不能妥协的",
+      "level": 4,
+      "lastReview": 1757159200210,
+      "nextReview": 1757180800210,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "2d84c8d9-d27b-4440-8896-ebbd7a09d632",
+      "word": "arduous",
+      "meaning": "困难的",
+      "level": 3,
+      "lastReview": 1757156970996,
+      "nextReview": 1757164170996,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "b27d9867-a1be-43c9-b48f-485ebfc032e6",
+      "word": "conciliatory",
+      "meaning": "安抚的调和的",
+      "level": 2,
+      "lastReview": 1757063149060,
+      "nextReview": 1757066749060,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "85bde6b5-9cbc-4de9-9ff9-e8d5c7d42513",
+      "word": "optimism",
+      "meaning": "乐观",
+      "level": 8,
+      "lastReview": 1757063261254,
+      "nextReview": 1758272861254,
+      "reviewCount": 18,
+      "mastered": true
+    },
+    {
+      "id": "0616fd3b-df04-49cc-bca6-cf0447e34823",
+      "word": "vindicate",
+      "meaning": "证明清白",
+      "level": 3,
+      "lastReview": 1757158536297,
+      "nextReview": 1757165736297,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "dab9d57d-3a66-44ae-9d87-89b1b7e45ed1",
+      "word": "malady",
+      "meaning": "疾病",
+      "level": 2,
+      "lastReview": 1757063075962,
+      "nextReview": 1757066675962,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "a86aa9ec-c9cc-4e0d-ad33-0724502eb9c0",
+      "word": "warrant",
+      "meaning": "保证，提供依据，授权",
+      "level": 2,
+      "lastReview": 1757062606608,
+      "nextReview": 1757066206608,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "d32281f7-3542-4dee-a6bd-939e0b9e0e40",
+      "word": "puncture",
+      "meaning": "刺穿，削弱，使无效",
+      "level": 2,
+      "lastReview": 1757065433911,
+      "nextReview": 1757069033911,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "af0faa39-99ec-4f13-ad9f-06b7b6e167c1",
+      "word": "ascribe",
+      "meaning": "归因于",
+      "level": 2,
+      "lastReview": 1757157325378,
+      "nextReview": 1757160925378,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "ad917737-98c3-469c-925b-e1af9557097a",
+      "word": "clandestine",
+      "meaning": "隐蔽",
+      "level": 2,
+      "lastReview": 1757157359316,
+      "nextReview": 1757160959316,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "916501e8-5a19-4865-b67b-08e26ea7b8b3",
+      "word": "equivocal",
+      "meaning": "模棱两可的，有歧义的",
+      "level": 3,
+      "lastReview": 1757158185968,
+      "nextReview": 1757165385968,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "08cd538c-ba7a-4515-b668-a5a7381b8039",
+      "word": "elucidate",
+      "meaning": "阐明",
+      "level": 2,
+      "lastReview": 1757062864999,
+      "nextReview": 1757066464999,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "86ad1aa2-2410-4fe8-9bae-32e0ecca978c",
+      "word": "propaganda",
+      "meaning": "政治宣传",
+      "level": 3,
+      "lastReview": 1757156801188,
+      "nextReview": 1757164001188,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "46c755b3-89c5-4118-8ea4-511c3e997465",
+      "word": "putative",
+      "meaning": "公认的，假定的",
+      "level": 3,
+      "lastReview": 1757157076688,
+      "nextReview": 1757164276688,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "89de817c-55db-405d-a01d-9bcc06c79d62",
+      "word": "conjecture",
+      "meaning": "猜测",
+      "level": 1,
+      "lastReview": 1757157393902,
+      "nextReview": 1757159193902,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "4eb7f985-b876-4a63-9ea0-a3f4f863526a",
+      "word": "coalesce",
+      "meaning": "聚合，团结，合并",
+      "level": 2,
+      "lastReview": 1757158035716,
+      "nextReview": 1757161635716,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "41941ae6-74dd-453d-8796-2060423859ab",
+      "word": "tractable",
+      "meaning": "易管理的，易控制的",
+      "level": 2,
+      "lastReview": 1757157074518,
+      "nextReview": 1757160674518,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "0d054ca8-b844-45e8-80bd-efc58ea44481",
+      "word": "warble",
+      "meaning": "低吟浅唱",
+      "level": 3,
+      "lastReview": 1757157706679,
+      "nextReview": 1757164906679,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "8fdf2d38-f128-42d3-9e9d-432955aed7ac",
+      "word": "knotty",
+      "meaning": "复杂的",
+      "level": 3,
+      "lastReview": 1757157377840,
+      "nextReview": 1757164577840,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "1ff305cc-e9a3-4d2e-b84d-6d2aad5bc4f2",
+      "word": "dischotomy",
+      "meaning": "矛盾的事物，一分为二",
+      "level": 2,
+      "lastReview": 1757157151472,
+      "nextReview": 1757160751472,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "7f4ce251-e697-45d8-a19e-25e6a1557efd",
+      "word": "restive",
+      "meaning": "不服管理的",
+      "level": 2,
+      "lastReview": 1757158008328,
+      "nextReview": 1757161608328,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "ee528b69-5197-4d2f-bdbd-0196a6f6d73d",
+      "word": "courteous",
+      "meaning": "礼貌的",
+      "level": 3,
+      "lastReview": 1757156610853,
+      "nextReview": 1757163810853,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "c268fa2d-bee4-411d-a171-345764fbae2d",
+      "word": "invigorate",
+      "meaning": "使有活力",
+      "level": 2,
+      "lastReview": 1757156891957,
+      "nextReview": 1757160491957,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "115711ee-4876-416a-b3f3-5f3dc0866341",
+      "word": "truculent",
+      "meaning": "好斗的，言语刻薄的",
+      "level": 1,
+      "lastReview": 1757158062557,
+      "nextReview": 1757159862557,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "edf3e4c6-3876-4e8d-a825-e14df876c1e1",
+      "word": "congenial",
+      "meaning": "友善的，和气的，令人愉悦的，性格相似的",
+      "level": 1,
+      "lastReview": 1757158371924,
+      "nextReview": 1757160171924,
+      "reviewCount": 7,
+      "mastered": false
+    },
+    {
+      "id": "61693522-c5ff-4c15-a3fe-34acf94d41db",
+      "word": "insouciance",
+      "meaning": "无忧无虑不操心",
+      "level": 0,
+      "lastReview": 1757159172566,
+      "nextReview": 1757159532566,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "f85bbf58-36f0-4176-a42d-54645417a8f7",
+      "word": "devastate",
+      "meaning": "严重破坏，使痛苦",
+      "level": 3,
+      "lastReview": 1757157524694,
+      "nextReview": 1757164724694,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "4a703755-5096-4c5f-bbb3-11f8f3d67400",
+      "word": "keen",
+      "meaning": "喜欢，感觉敏锐的，锋利的",
+      "level": 3,
+      "lastReview": 1757161590334,
+      "nextReview": 1757168790334,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "c629b3fc-a485-445f-9f96-0788138f69e5",
+      "word": "ethos",
+      "meaning": "气氛，信仰",
+      "level": 3,
+      "lastReview": 1757157907140,
+      "nextReview": 1757165107140,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "e2780321-42cf-4ed9-8f40-00312931f884",
+      "word": "flagrant",
+      "meaning": "臭名昭著的",
+      "level": 3,
+      "lastReview": 1757157844788,
+      "nextReview": 1757165044788,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "604740d6-678c-4830-aeb7-3fd087a41dd1",
+      "word": "solitude",
+      "meaning": "孤独",
+      "level": 3,
+      "lastReview": 1757156456817,
+      "nextReview": 1757163656817,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "9071d8b3-2968-4bc7-8680-de97458320ae",
+      "word": "anachronism",
+      "meaning": "时代错乱，不合时宜",
+      "level": 3,
+      "lastReview": 1757157400056,
+      "nextReview": 1757164600056,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "2d4d8d6f-8023-4bba-850f-fc41ecbb0ee5",
+      "word": "turbid",
+      "meaning": "浑浊的，混乱的",
+      "level": 2,
+      "lastReview": 1757065450111,
+      "nextReview": 1757069050111,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "85bbad24-9f04-42fe-bfdb-b8b05154ac36",
+      "word": "confine",
+      "meaning": "限制",
+      "level": 3,
+      "lastReview": 1757158266478,
+      "nextReview": 1757165466478,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "cb7c5b27-cdbd-4534-aa36-1b64686eb15a",
+      "word": "venerate",
+      "meaning": "尊敬",
+      "level": 1,
+      "lastReview": 1757065457638,
+      "nextReview": 1757067257638,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "dca9b66e-d45c-4dd9-9b43-38de62238d5d",
+      "word": "premeditate",
+      "meaning": "预谋，提前谋划",
+      "level": 4,
+      "lastReview": 1757158021289,
+      "nextReview": 1757179621289,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "26e433d4-1ac9-4b1e-a0d5-dd623c76fde2",
+      "word": "insular",
+      "meaning": "孤立的，思维狭隘的守旧的",
+      "level": 2,
+      "lastReview": 1757161553764,
+      "nextReview": 1757165153764,
+      "reviewCount": 6,
+      "mastered": false
+    },
+    {
+      "id": "406f0db2-ced3-40d0-aa4a-3f0408877bf9",
+      "word": "consolidate",
+      "meaning": "巩固",
+      "level": 2,
+      "lastReview": 1757065453849,
+      "nextReview": 1757069053849,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "14e58870-5588-4c4c-9aa8-4927a9351ae0",
+      "word": "upheaval",
+      "meaning": "引起混乱的巨变，不妥协的固执的",
+      "level": 0,
+      "lastReview": 1757065519695,
+      "nextReview": 1757065879695,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "9352eaff-00c5-412b-917c-a0446b5321ca",
+      "word": "mendacious",
+      "meaning": "欺骗的不诚实的",
+      "level": 3,
+      "lastReview": 1757158143981,
+      "nextReview": 1757165343981,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "f49c4c82-e6cd-454e-befa-84aedc875a22",
+      "word": "sonorous",
+      "meaning": "声音洪亮的",
+      "level": 3,
+      "lastReview": 1757157801146,
+      "nextReview": 1757165001146,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "fc95857e-99fc-4b46-9add-70d2caca8b0b",
+      "word": "fertile",
+      "meaning": "多产的",
+      "level": 3,
+      "lastReview": 1757157035426,
+      "nextReview": 1757164235426,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "a973bf44-d9a2-424c-a2e9-11e31d0c22d5",
+      "word": "decadent",
+      "meaning": "思想堕落颓废的，三俗的",
+      "level": 3,
+      "lastReview": 1757158897476,
+      "nextReview": 1757166097476,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "982faaf6-42b9-47f6-8f72-d22722988842",
+      "word": "indispensable",
+      "meaning": "不可缺少的",
+      "level": 3,
+      "lastReview": 1757159021656,
+      "nextReview": 1757166221656,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "265e195c-9a97-4329-9a13-e73061bb2f85",
+      "word": "covert",
+      "meaning": "秘密的,隐秘的",
+      "level": 3,
+      "lastReview": 1757156925724,
+      "nextReview": 1757164125724,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "bfdddafa-104e-4fa2-9638-a06c24a1989f",
+      "word": "instinct",
+      "meaning": "本能的",
+      "level": 2,
+      "lastReview": 1757157036468,
+      "nextReview": 1757160636468,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "39014cd0-7512-48ff-935d-e4b75dc7179b",
+      "word": "discern",
+      "meaning": "识别，察觉",
+      "level": 3,
+      "lastReview": 1757156508168,
+      "nextReview": 1757163708168,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "7d4d4c6a-c3f9-464e-b006-6b1ed1945cbe",
+      "word": "orientation",
+      "meaning": "态度取向，方向",
+      "level": 3,
+      "lastReview": 1757157909972,
+      "nextReview": 1757165109972,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "4d3b032f-026d-4ca5-a96b-16abaa04afa3",
+      "word": "riddle",
+      "meaning": "谜题难题",
+      "level": 2,
+      "lastReview": 1757063240804,
+      "nextReview": 1757066840804,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "9d0a80e6-2ad2-41ef-8b4b-b18c8d925db5",
+      "word": "jejune",
+      "meaning": "无聊的，滑稽的小丑般的",
+      "level": 3,
+      "lastReview": 1757156812630,
+      "nextReview": 1757164012630,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "bedff1d8-f9d0-4c87-bf90-8c20d1098f9b",
+      "word": "indifferent",
+      "meaning": "漠不关心的，平庸的",
+      "level": 2,
+      "lastReview": 1757065495011,
+      "nextReview": 1757069095011,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "2f245693-932c-4a47-86e8-6020c6834ba9",
+      "word": "lethargic",
+      "meaning": "漠不关心的，缺少热情的",
+      "level": 3,
+      "lastReview": 1757156894559,
+      "nextReview": 1757164094559,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "2253f1e4-1e1d-432b-b762-2dc271fd3ef4",
+      "word": "clique",
+      "meaning": "小团队，分帮结派的",
+      "level": 7,
+      "lastReview": 1757065380249,
+      "nextReview": 1757670180249,
+      "reviewCount": 11,
+      "mastered": false
+    },
+    {
+      "id": "e03779bb-ee52-436a-94ee-3a506e32c535",
+      "word": "fungible",
+      "meaning": "可代替的",
+      "level": 3,
+      "lastReview": 1757158226780,
+      "nextReview": 1757165426780,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "4a4cd818-0eb6-42e9-94c3-39061a32be77",
+      "word": "complimentary",
+      "meaning": "赞美的",
+      "level": 3,
+      "lastReview": 1757156811074,
+      "nextReview": 1757164011074,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "7757c159-ee58-4686-ab42-b11fb58ea45e",
+      "word": "empirical",
+      "meaning": "根据经验的",
+      "level": 3,
+      "lastReview": 1757158572558,
+      "nextReview": 1757165772558,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "bb469af0-6a54-483b-b35f-c74f95913c88",
+      "word": "conform",
+      "meaning": "符合，遵守，随大流",
+      "level": 1,
+      "lastReview": 1757158070467,
+      "nextReview": 1757159870467,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "56b8080d-5dc9-4e01-9903-37207b00bc1b",
+      "word": "solicitous",
+      "meaning": "关心的，殷切的",
+      "level": 0,
+      "lastReview": 1757158596758,
+      "nextReview": 1757158956758,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "25b60106-ab73-45ab-8468-0d67698e5042",
+      "word": "insult",
+      "meaning": "侮辱",
+      "level": 1,
+      "lastReview": 1757156604273,
+      "nextReview": 1757158404273,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "632bcd1d-d7b7-4317-ad66-799d3167162e",
+      "word": "acrimony",
+      "meaning": "尖刻，犀利",
+      "level": 0,
+      "lastReview": 1757159178896,
+      "nextReview": 1757159538896,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "df0d24a9-4d14-480d-abf9-9f8631ed00eb",
+      "word": "misconception",
+      "meaning": "误解，错觉",
+      "level": 1,
+      "lastReview": 1757158422616,
+      "nextReview": 1757160222616,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "c86b9aa7-e9ec-4afe-a45a-40b866a9b69d",
+      "word": "mundane",
+      "meaning": "平凡的无聊的",
+      "level": 1,
+      "lastReview": 1757158160337,
+      "nextReview": 1757159960337,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "7d4b769c-6963-424e-b970-dc607dec8d5d",
+      "word": "ambiguous",
+      "meaning": "歧义的",
+      "level": 1,
+      "lastReview": 1757156673795,
+      "nextReview": 1757158473795,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "e7218121-4325-4bae-af02-0d02af89bf7e",
+      "word": "allure",
+      "meaning": "引诱",
+      "level": 1,
+      "lastReview": 1757161591901,
+      "nextReview": 1757163391901,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "78f71821-0d10-4a00-af76-1fe95305c20f",
+      "word": "cagey",
+      "meaning": "守口如瓶的，警惕的，聪明的",
+      "level": 1,
+      "lastReview": 1757159155243,
+      "nextReview": 1757160955243,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "65d0f9dc-11e5-47b6-baee-e9e43340b278",
+      "word": "heresy",
+      "meaning": "与主流观点相悖",
+      "level": 1,
+      "lastReview": 1757157181406,
+      "nextReview": 1757158981406,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "cf2136af-8a30-41b7-96e8-a8dd374d7d04",
+      "word": "parsimony",
+      "meaning": "吝啬",
+      "level": 1,
+      "lastReview": 1757156570441,
+      "nextReview": 1757158370441,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "4959b64f-bf1c-4696-9687-c37d0674204f",
+      "word": "cunning",
+      "meaning": "狡猾机智，技艺高超",
+      "level": 1,
+      "lastReview": 1757161612441,
+      "nextReview": 1757163412441,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "f3e0e43d-7137-43f2-b253-61be740c2ee8",
+      "word": "highlight",
+      "meaning": "使突出",
+      "level": 1,
+      "lastReview": 1757158133766,
+      "nextReview": 1757159933766,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "f528de4f-ad9e-4454-a94b-efe4361a370e",
+      "word": "judicious",
+      "meaning": "有正确判断力的",
+      "level": 1,
+      "lastReview": 1757158156079,
+      "nextReview": 1757159956079,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "40d1b74c-44ff-4131-95fa-d4a3e326d309",
+      "word": "disguise",
+      "meaning": "假装",
+      "level": 2,
+      "lastReview": 1757159282809,
+      "nextReview": 1757162882809,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "b63d019f-06bf-48e0-bee8-186e0ce433c4",
+      "word": "far-fetched",
+      "meaning": "不切实际牵强附会的",
+      "level": 1,
+      "lastReview": 1757158159014,
+      "nextReview": 1757159959014,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "f0c3abc7-e944-458c-a1a8-c5e62e270db3",
+      "word": "eclipse",
+      "meaning": "使不重要，超出",
+      "level": 1,
+      "lastReview": 1757158146738,
+      "nextReview": 1757159946738,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "5ed421ea-99b9-4767-bc0c-c7d5568d4358",
+      "word": "impulsive",
+      "meaning": "冲动的",
+      "level": 0,
+      "lastReview": 1757075074411,
+      "nextReview": 1757075434411,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "37123aa4-25c5-4ad1-a5b9-3edd31f57448",
+      "word": "exculpate",
+      "meaning": "脱罪",
+      "level": 0,
+      "lastReview": 1757161550226,
+      "nextReview": 1757161910226,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "80b97935-6223-4392-ab57-3289b471a89e",
+      "word": "overblow",
+      "meaning": "夸大",
+      "level": 0,
+      "lastReview": 1757156681690,
+      "nextReview": 1757157041690,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "4202634e-e077-41fa-bcdc-a60afb0f6a3c",
+      "word": "obfuscate",
+      "meaning": "使困惑，使昏暗",
+      "level": 0,
+      "lastReview": 1757157166147,
+      "nextReview": 1757157526147,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "46b8e3a1-cbc7-4663-96fd-417c209521a1",
+      "word": "droll",
+      "meaning": "古怪的",
+      "level": 1,
+      "lastReview": 1757161575304,
+      "nextReview": 1757163375304,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "801e03e3-54a7-4414-bf82-161dc777e514",
+      "word": "inconclusive",
+      "meaning": "无结果的，不确定的",
+      "level": 0,
+      "lastReview": 1757158756023,
+      "nextReview": 1757159116023,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "b6af5c48-0df9-4f16-b9d8-f2d8455d69c8",
+      "word": "disperse",
+      "meaning": "使分散",
+      "level": 1,
+      "lastReview": 1757157551438,
+      "nextReview": 1757159351438,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "550eb458-5f42-4f44-a4fd-1f3712c21bce",
+      "word": "amplify",
+      "meaning": "详细阐述，夸大放大",
+      "level": 1,
+      "lastReview": 1757158925947,
+      "nextReview": 1757160725947,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "bf3ffe14-8bd6-4b54-9188-0384382c042f",
+      "word": "exaggerate",
+      "meaning": "夸大",
+      "level": 2,
+      "lastReview": 1757159114893,
+      "nextReview": 1757162714893,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "64408537-a857-4434-b5b0-e7ea8796780a",
+      "word": "unwitting",
+      "meaning": "不知情的无意识的，无心的",
+      "level": 1,
+      "lastReview": 1757158374576,
+      "nextReview": 1757160174576,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "59e80460-3b0f-40f3-a847-ddb7dbc906ae",
+      "word": "inclusive",
+      "meaning": "广泛的，全面的，开放的",
+      "level": 0,
+      "lastReview": 1757158533136,
+      "nextReview": 1757158893136,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "9dd11fbd-8825-4663-8192-301567a46e65",
+      "word": "diatribe",
+      "meaning": "长篇痛骂",
+      "level": 0,
+      "lastReview": 1757157741126,
+      "nextReview": 1757158101126,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "b8f8f4e7-d804-48f6-b9ab-9cdf37e1bc48",
+      "word": "promulgate",
+      "meaning": "传播，颁布律法",
+      "level": 1,
+      "lastReview": 1757159288779,
+      "nextReview": 1757161088780,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "d9e5cbdc-7c8d-419b-813a-b95c168f4a2e",
+      "word": "consilience",
+      "meaning": "一致，符合",
+      "level": 0,
+      "lastReview": 1757157565142,
+      "nextReview": 1757157925142,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "dca03bd5-a190-43d6-8f2a-f96530a54ec0",
+      "word": "ebullient",
+      "meaning": "热情洋溢的",
+      "level": 0,
+      "lastReview": 1757156672079,
+      "nextReview": 1757157032079,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "c77de364-4200-4845-962a-dd0ae7497fe8",
+      "word": "bolster",
+      "meaning": "支持",
+      "level": 0,
+      "lastReview": 1757157901274,
+      "nextReview": 1757158261274,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "7b18c4f0-0b95-4a62-9b49-b014a64cbd31",
+      "word": "dispute",
+      "meaning": "争辩，反对",
+      "level": 1,
+      "lastReview": 1757158708529,
+      "nextReview": 1757160508529,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "6165635c-9ba8-447c-b639-3ea75687e49e",
+      "word": "exposition",
+      "meaning": "阐释，解释，展出",
+      "level": 0,
+      "lastReview": 1757161574105,
+      "nextReview": 1757161934105,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "554fdff2-d5d6-487a-adb2-3230518f9765",
+      "word": "coddle",
+      "meaning": "溺爱",
+      "level": 0,
+      "lastReview": 1757158539468,
+      "nextReview": 1757158899468,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "c2be4eed-0f47-4cc7-968f-5dc24131f925",
+      "word": "nuance",
+      "meaning": "小差异",
+      "level": 1,
+      "lastReview": 1757161577596,
+      "nextReview": 1757163377596,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "1127fd49-f465-481f-96da-e88d07b4ff37",
+      "word": "peculiar",
+      "meaning": "不寻常的",
+      "level": 2,
+      "lastReview": 1757158145124,
+      "nextReview": 1757161745124,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "e6f29af8-f7de-4a62-a85a-e41ace6bcf1f",
+      "word": "egalitarian",
+      "meaning": "平等的",
+      "level": 0,
+      "lastReview": 1757158310120,
+      "nextReview": 1757158670120,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "b82dc760-cfe1-459d-8c3f-6b61478b2089",
+      "word": "propitiate",
+      "meaning": "安抚",
+      "level": 0,
+      "lastReview": 1757161586782,
+      "nextReview": 1757161946782,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "dc315da4-c572-4746-8414-5c2636a3d577",
+      "word": "futile",
+      "meaning": "无用的",
+      "level": 0,
+      "lastReview": 1757078467049,
+      "nextReview": 1757078827049,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "823e74ca-382d-476e-b958-93a5e0ffa84c",
+      "word": "unassuming",
+      "meaning": "低调的谦虚的",
+      "level": 0,
+      "lastReview": 1757159066717,
+      "nextReview": 1757159426717,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "e879a2de-4d27-430e-a2b7-d391531ddeb4",
+      "word": "amicable",
+      "meaning": "和善的",
+      "level": 0,
+      "lastReview": 1757078493228,
+      "nextReview": 1757078853228,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "e611ee24-8cb8-4ad0-8bb1-135f7b332ddc",
+      "word": "unfounded",
+      "meaning": "毫无根据的",
+      "level": 1,
+      "lastReview": 1757157862388,
+      "nextReview": 1757159662388,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "366b10d6-f232-4c12-9972-a620c145c6cb",
+      "word": "plastic",
+      "meaning": "可塑的，虚假的",
+      "level": 0,
+      "lastReview": 1757078526530,
+      "nextReview": 1757078886530,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "5a37d738-385a-4d1c-8ca3-dd5489f221dc",
+      "word": "apocalypse",
+      "meaning": "大灾难",
+      "level": 1,
+      "lastReview": 1757157790938,
+      "nextReview": 1757159590938,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "06ecc970-a2d2-497e-84f1-5d904cc59426",
+      "word": "authoritative",
+      "meaning": "权威的可信的",
+      "level": 1,
+      "lastReview": 1757159262963,
+      "nextReview": 1757161062963,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "c9acf36b-a187-4162-8f39-c2ea2758ed80",
+      "word": "clamorous",
+      "meaning": "吵吵闹闹的",
+      "level": 0,
+      "lastReview": 1757078608887,
+      "nextReview": 1757078968887,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "d28fb4d3-3919-426a-8d1b-ab1d8101732b",
+      "word": "placate",
+      "meaning": "安抚",
+      "level": 0,
+      "lastReview": 1757078619123,
+      "nextReview": 1757078979123,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "3dad0e43-87b6-4420-8425-8c8eb11a0c85",
+      "word": "far-reaching",
+      "meaning": "影响广泛的",
+      "level": 0,
+      "lastReview": 1757078662179,
+      "nextReview": 1757079022179,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "2d3d22de-3663-417a-bea1-00e1f799a935",
+      "word": "disinterested",
+      "meaning": "客观公正的",
+      "level": 0,
+      "lastReview": 1757161626734,
+      "nextReview": 1757161986734,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "cb10939c-361d-4001-9021-9224844dfca7",
+      "word": "embolden",
+      "meaning": "鼓舞鼓励",
+      "level": 0,
+      "lastReview": 1757158483423,
+      "nextReview": 1757158843423,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "9a9f5a41-aee9-4465-8ebf-f2787fd29e3f",
+      "word": "incompatible",
+      "meaning": "不可兼容的",
+      "level": 2,
+      "lastReview": 1757161543556,
+      "nextReview": 1757165143556,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "fbe39fa7-c364-4622-a0c7-7b417de9bdc1",
+      "word": "stale",
+      "meaning": "不新鲜的",
+      "level": 0,
+      "lastReview": 1757157361830,
+      "nextReview": 1757157721830,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "ad9c382f-9c10-4c46-9f99-dcba1bce2265",
+      "word": "lionize",
+      "meaning": "重视，尊敬",
+      "level": 0,
+      "lastReview": 1757078811417,
+      "nextReview": 1757079171417,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "9aeb01eb-45c2-4b7c-9aca-84e88106db89",
+      "word": "preachy",
+      "meaning": "说教的，好为人师的",
+      "level": 0,
+      "lastReview": 1757078838269,
+      "nextReview": 1757079198269,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "b4bcaba1-43a6-4b1c-bed9-21899bf0f280",
+      "word": "illusory",
+      "meaning": "虚假的，贪婪的人",
+      "level": 0,
+      "lastReview": 1757158888150,
+      "nextReview": 1757159248150,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "4fdb5b55-b575-422b-a87e-eb0ba2e04473",
+      "word": "felicitous",
+      "meaning": "合适的，喜悦的令人愉悦的",
+      "level": 0,
+      "lastReview": 1757159136883,
+      "nextReview": 1757159496883,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "6eaf8138-22c9-414c-a6e0-34a5c4f6b172",
+      "word": "averse",
+      "meaning": "反感，厌恶",
+      "level": 1,
+      "lastReview": 1757156804101,
+      "nextReview": 1757158604101,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "ce6dbac0-3fbf-4da6-b7ef-17b4290ec231",
+      "word": "trigger",
+      "meaning": "触发",
+      "level": 0,
+      "lastReview": 1757078881645,
+      "nextReview": 1757079241645,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "038e72c3-a9bd-4fb5-aa5d-c5f0f3033172",
+      "word": "integrity",
+      "meaning": "正直",
+      "level": 0,
+      "lastReview": 1757078892896,
+      "nextReview": 1757079252896,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "af80505b-f5eb-49f6-8f4d-58042be185cb",
+      "word": "conservation",
+      "meaning": "保护",
+      "level": 1,
+      "lastReview": 1757161578885,
+      "nextReview": 1757163378885,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "7c9ec71c-b54c-442f-a18a-7a6fe30ccdf4",
+      "word": "spontaneous",
+      "meaning": "即兴的，自主自发的，自然不刻意的",
+      "level": 1,
+      "lastReview": 1757158948895,
+      "nextReview": 1757160748895,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "8b21f0e1-a27a-4164-8b3d-36d35ea469f2",
+      "word": "pushover",
+      "meaning": "易被打败的人，易被影响的人，容易的事",
+      "level": 1,
+      "lastReview": 1757157975570,
+      "nextReview": 1757159775570,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "27b64194-7d2c-4f4f-86e0-3d7a9bf2ad6b",
+      "word": "comprehensive",
+      "meaning": "全面的",
+      "level": 2,
+      "lastReview": 1757158406316,
+      "nextReview": 1757162006316,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "b7d5dce2-293e-4e6f-820f-7b074fe64459",
+      "word": "insufferable",
+      "meaning": "无法忍受的",
+      "level": 1,
+      "lastReview": 1757158789179,
+      "nextReview": 1757160589179,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "8dcde141-0e30-48c5-aebc-3ad0d3033944",
+      "word": "sequential",
+      "meaning": "有序的",
+      "level": 2,
+      "lastReview": 1757161554811,
+      "nextReview": 1757165154811,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "368ae9cf-5ce6-4ae4-9408-b8997806cc50",
+      "word": "surreptitious",
+      "meaning": "秘密的，鬼鬼祟祟的",
+      "level": 0,
+      "lastReview": 1757161621514,
+      "nextReview": 1757161981514,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "115856a0-c8b4-412b-ba9c-dd2e6bdd79d3",
+      "word": "dispassionate",
+      "meaning": "客观的",
+      "level": 0,
+      "lastReview": 1757079404137,
+      "nextReview": 1757079764137,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "d24a88d4-2d30-444a-9a90-e813b91cb3a1",
+      "word": "transient",
+      "meaning": "短暂的",
+      "level": 1,
+      "lastReview": 1757157024111,
+      "nextReview": 1757158824111,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "d84f7595-bb64-478c-a77f-a311fbdf18fd",
+      "word": "vacant",
+      "meaning": "空的，面无表情茫然地",
+      "level": 0,
+      "lastReview": 1757156637429,
+      "nextReview": 1757156997429,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "42632d12-6ed8-4492-88cc-ac93a8451e86",
+      "word": "canned",
+      "meaning": "千篇一律的，预先录制的，弱化减缓影响",
+      "level": 0,
+      "lastReview": 1757156371692,
+      "nextReview": 1757156731692,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "a552655e-fc55-44a9-b399-90a1ca999ed9",
+      "word": "feign",
+      "meaning": "假装",
+      "level": 0,
+      "lastReview": 1757157991430,
+      "nextReview": 1757158351430,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "147c25d6-c51e-4489-b143-71fd58e3ec5c",
+      "word": "daunting",
+      "meaning": "令人畏惧的",
+      "level": 0,
+      "lastReview": 1757079473249,
+      "nextReview": 1757079833249,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "ec663cce-0b4d-41d6-a53b-7e855dfaaec1",
+      "word": "downright",
+      "meaning": "完全的",
+      "level": 0,
+      "lastReview": 1757079485767,
+      "nextReview": 1757079845767,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "62dcf231-06fa-493d-900f-e1f586ec193a",
+      "word": "autonomous",
+      "meaning": "自治的独立自主的",
+      "level": 2,
+      "lastReview": 1757158561605,
+      "nextReview": 1757162161605,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "595197f0-4470-4ff0-a515-24d170002c86",
+      "word": "indeterminate",
+      "meaning": "不确定的",
+      "level": 1,
+      "lastReview": 1757158411394,
+      "nextReview": 1757160211394,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "3453e8fd-c348-40b0-b21e-b3c479be5018",
+      "word": "opulent",
+      "meaning": "昂贵富裕的",
+      "level": 1,
+      "lastReview": 1757157581712,
+      "nextReview": 1757159381712,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "bd1ab519-744a-43ac-940d-b346b2b1119a",
+      "word": "pervasive",
+      "meaning": "广泛的蔓延的",
+      "level": 0,
+      "lastReview": 1757157148559,
+      "nextReview": 1757157508559,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "747bea01-63a4-40c6-8e16-871579ee0493",
+      "word": "offset",
+      "meaning": "抵消",
+      "level": 1,
+      "lastReview": 1757157982620,
+      "nextReview": 1757159782620,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "81e94467-4ff3-4e18-916b-fad59f2d7644",
+      "word": "omnipresent",
+      "meaning": "处处都有的",
+      "level": 0,
+      "lastReview": 1757159113408,
+      "nextReview": 1757159473408,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "3dbfec24-cc70-4149-b15c-5248b33182d4",
+      "word": "entangle",
+      "meaning": "纠缠，使卷入困境",
+      "level": 1,
+      "lastReview": 1757158051067,
+      "nextReview": 1757159851067,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "e281aadb-ddee-4e98-8f6e-bc07febc5df7",
+      "word": "dilatory",
+      "meaning": "拖延的",
+      "level": 0,
+      "lastReview": 1757157716560,
+      "nextReview": 1757158076560,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "cdef2a84-432c-4fa2-bd64-22e11192249e",
+      "word": "generic",
+      "meaning": "普通的通用的",
+      "level": 1,
+      "lastReview": 1757157323159,
+      "nextReview": 1757159123159,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "10f1c2c0-a518-4dc2-a04b-e2799876c232",
+      "word": "sensational",
+      "meaning": "极好的，令人兴奋的",
+      "level": 0,
+      "lastReview": 1757079640477,
+      "nextReview": 1757080000477,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "038cec65-c6ba-4d96-87ff-560908d5a222",
+      "word": "explicable",
+      "meaning": "可以解释的",
+      "level": 1,
+      "lastReview": 1757161582321,
+      "nextReview": 1757163382321,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "c6811825-05f7-41ee-9df6-e5879ce512b9",
+      "word": "pernicious",
+      "meaning": "有害的致命的",
+      "level": 0,
+      "lastReview": 1757158971145,
+      "nextReview": 1757159331145,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "83b38757-1124-4f5c-9933-09bb3c3ef43a",
+      "word": "convoluted",
+      "meaning": "难懂的复杂的",
+      "level": 0,
+      "lastReview": 1757158992676,
+      "nextReview": 1757159352676,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "789ea0e1-7cc2-4f3d-bd95-3bac30ed4ba0",
+      "word": "bureaucracy",
+      "meaning": "官僚机构",
+      "level": 2,
+      "lastReview": 1757158579286,
+      "nextReview": 1757162179286,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "6c6f6837-c71d-4699-bf62-604a227bc01d",
+      "word": "widespread",
+      "meaning": "广泛的",
+      "level": 1,
+      "lastReview": 1757158251818,
+      "nextReview": 1757160051818,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "ca618ab3-f065-4c35-9628-d57abbca90bd",
+      "word": "compliant",
+      "meaning": "顺从迎合的",
+      "level": 0,
+      "lastReview": 1757158918512,
+      "nextReview": 1757159278512,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "6c95f962-7669-42f4-8a47-17c22328b8ba",
+      "word": "trifling",
+      "meaning": "不重要的",
+      "level": 0,
+      "lastReview": 1757079714241,
+      "nextReview": 1757080074241,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "4b2ddbda-063d-4bb6-82cf-3975d0816644",
+      "word": "compunction",
+      "meaning": "后悔感，犯罪感",
+      "level": 0,
+      "lastReview": 1757079737365,
+      "nextReview": 1757080097365,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "17a37a71-0d0b-4651-bdf4-e649694648d9",
+      "word": "cynical",
+      "meaning": "怀疑他人动机不纯的",
+      "level": 0,
+      "lastReview": 1757158497548,
+      "nextReview": 1757158857548,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "b7eb0c5a-ca12-4797-af85-3b3e63cac679",
+      "word": "pretentious",
+      "meaning": "炫耀的",
+      "level": 1,
+      "lastReview": 1757158393737,
+      "nextReview": 1757160193737,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "8a424edc-63e5-43f5-809e-64b021cbe0cd",
+      "word": "customary",
+      "meaning": "惯常的",
+      "level": 1,
+      "lastReview": 1757157002056,
+      "nextReview": 1757158802056,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "7bcc5c5a-62e6-4cdb-889b-637fab5e4d00",
+      "word": "vilify",
+      "meaning": "诽谤辱骂",
+      "level": 0,
+      "lastReview": 1757158365987,
+      "nextReview": 1757158725987,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "4c80a679-4b75-4d3c-8aad-6763d8fcf73f",
+      "word": "tantamount",
+      "meaning": "数量相当的，产不多的",
+      "level": 1,
+      "lastReview": 1757156651593,
+      "nextReview": 1757158451593,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "dec2d74c-691f-4fbb-8083-8fd8ea9e8bc6",
+      "word": "unflinching",
+      "meaning": "坚定不退缩的，表达直白的",
+      "level": 0,
+      "lastReview": 1757079989689,
+      "nextReview": 1757080349689,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "a395ea6f-ea5c-4ff4-8553-c096c032cf48",
+      "word": "prototype",
+      "meaning": "典型，原型",
+      "level": 0,
+      "lastReview": 1757080064804,
+      "nextReview": 1757080424804,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "a88d054a-fc84-4d4d-be0f-324503c07213",
+      "word": "equanimity",
+      "meaning": "平静镇定",
+      "level": 0,
+      "lastReview": 1757159277965,
+      "nextReview": 1757159637965,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "af348b56-c97a-41ee-bfa0-2cd1883c06eb",
+      "word": "espouse",
+      "meaning": "支持",
+      "level": 1,
+      "lastReview": 1757159194715,
+      "nextReview": 1757160994715,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "1e85f8d6-28c9-4544-b99c-907dc9632c36",
+      "word": "inattention",
+      "meaning": "不留心",
+      "level": 1,
+      "lastReview": 1757157477418,
+      "nextReview": 1757159277418,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "5efc5dcd-a3d4-4822-9b2a-359a2f63a810",
+      "word": "fractious",
+      "meaning": "愤怒的，爱惹事的不服管的",
+      "level": 0,
+      "lastReview": 1757080161836,
+      "nextReview": 1757080521836,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "b4697931-0575-4dc7-aa65-8bef0422b06d",
+      "word": "disorganize",
+      "meaning": "打乱破坏",
+      "level": 2,
+      "lastReview": 1757158786681,
+      "nextReview": 1757162386681,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "9cec3fea-74c7-4bb0-b5eb-87e3462d9941",
+      "word": "figurative",
+      "meaning": "比喻的形象的",
+      "level": 0,
+      "lastReview": 1757158771356,
+      "nextReview": 1757159131356,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "94a8a2c2-c299-48d9-96d4-60d2a50621ec",
+      "word": "entail",
+      "meaning": "包含包括",
+      "level": 0,
+      "lastReview": 1757158931653,
+      "nextReview": 1757159291653,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "5636d63d-2da0-42be-a850-b4988369eaf7",
+      "word": "impeccable",
+      "meaning": "无懈可击的",
+      "level": 2,
+      "lastReview": 1757158901559,
+      "nextReview": 1757162501559,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "15abc305-f6cd-4e69-bad6-6704eecd4847",
+      "word": "stifle",
+      "meaning": "抑制，使窒息",
+      "level": 1,
+      "lastReview": 1757156483465,
+      "nextReview": 1757158283465,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "bd4c794f-f570-4851-9d7d-bcf6aac59a36",
+      "word": "pragmatic",
+      "meaning": "实际的",
+      "level": 0,
+      "lastReview": 1757158178372,
+      "nextReview": 1757158538372,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "dc476355-447d-494e-90e8-4e1ffdc1054e",
+      "word": "didactic",
+      "meaning": "说教的",
+      "level": 0,
+      "lastReview": 1757080372873,
+      "nextReview": 1757080732873,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "189429c3-de74-42c9-9c5e-72c496b623de",
+      "word": "dazzle",
+      "meaning": "使目眩，使惊讶",
+      "level": 1,
+      "lastReview": 1757157621045,
+      "nextReview": 1757159421045,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "438dd9c6-9c4c-442f-a318-005636106bf2",
+      "word": "stalwart",
+      "meaning": "坚定忠诚的，结实强壮的",
+      "level": 1,
+      "lastReview": 1757158280107,
+      "nextReview": 1757160080107,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "6fc287f8-44e7-410b-b770-cb28d0c7a976",
+      "word": "archaic",
+      "meaning": "过时的",
+      "level": 0,
+      "lastReview": 1757080438376,
+      "nextReview": 1757080798376,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "a7b63407-7dc2-43ee-92d7-244d31db6908",
+      "word": "palliate",
+      "meaning": "减缓",
+      "level": 0,
+      "lastReview": 1757157896982,
+      "nextReview": 1757158256982,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "31759ee8-1277-43de-8dfe-01e4d59cbdea",
+      "word": "accede",
+      "meaning": "同意，加入",
+      "level": 0,
+      "lastReview": 1757080470824,
+      "nextReview": 1757080830824,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "bd95a852-db51-4b28-ae2e-25bc03307f82",
+      "word": "consort",
+      "meaning": "陪伴",
+      "level": 1,
+      "lastReview": 1757158578121,
+      "nextReview": 1757160378121,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "bd0351ef-7e1d-42fd-9372-e3c8e3616501",
+      "word": "hostile",
+      "meaning": "敌对的",
+      "level": 1,
+      "lastReview": 1757156598195,
+      "nextReview": 1757158398195,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "65f61f26-6f5c-4dcc-862b-43c4481abcdb",
+      "word": "ubiquitous",
+      "meaning": "广泛的",
+      "level": 1,
+      "lastReview": 1757157539486,
+      "nextReview": 1757159339486,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "2e2ad8e9-9b5d-4bd1-9387-59a31d34c35d",
+      "word": "authenticate",
+      "meaning": "验证",
+      "level": 0,
+      "lastReview": 1757158357514,
+      "nextReview": 1757158717514,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "fedf7da5-601b-42b7-964a-9902447854c6",
+      "word": "condescend",
+      "meaning": "显示优越感，放下身段做",
+      "level": 0,
+      "lastReview": 1757159208438,
+      "nextReview": 1757159568438,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "ad5dbb6d-dcbe-4be9-b3d4-00176fbac361",
+      "word": "predilection",
+      "meaning": "倾向，偏好",
+      "level": 2,
+      "lastReview": 1757157926340,
+      "nextReview": 1757161526340,
+      "reviewCount": 5,
+      "mastered": false
+    },
+    {
+      "id": "68c35659-f6d6-46d0-bdd4-3d65237d125f",
+      "word": "fruitless",
+      "meaning": "失败的无用的",
+      "level": 1,
+      "lastReview": 1757158058930,
+      "nextReview": 1757159858930,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "97d11b2f-a5a1-4c20-8f03-5892a94a1f41",
+      "word": "diminutive",
+      "meaning": "极小的",
+      "level": 1,
+      "lastReview": 1757158046470,
+      "nextReview": 1757159846470,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "653c436c-b30c-41d6-a818-681598d880e2",
+      "word": "illustrious",
+      "meaning": "杰出的",
+      "level": 0,
+      "lastReview": 1757080794502,
+      "nextReview": 1757081154502,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "b1f82114-9bb4-4d2a-9633-01bccfba4883",
+      "word": "unconscionable",
+      "meaning": "丧心病狂的，不合理公正的",
+      "level": 0,
+      "lastReview": 1757080824078,
+      "nextReview": 1757081184078,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "5a661891-e261-413f-a168-d6ee0f78a96d",
+      "word": "trivial",
+      "meaning": "不重要的",
+      "level": 2,
+      "lastReview": 1757159292749,
+      "nextReview": 1757162892749,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "0470517d-982d-4e33-ab8e-9a36578d035c",
+      "word": "callow",
+      "meaning": "幼稚的",
+      "level": 0,
+      "lastReview": 1757159054680,
+      "nextReview": 1757159414680,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "310104aa-7700-4307-a877-7c85fcb0f4bc",
+      "word": "sketchy",
+      "meaning": "粗略的，草图",
+      "level": 1,
+      "lastReview": 1757157842998,
+      "nextReview": 1757159642998,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "7776955a-9d43-4138-9975-e11a7a922a19",
+      "word": "bemuse",
+      "meaning": "使困惑，吸引",
+      "level": 0,
+      "lastReview": 1757080867275,
+      "nextReview": 1757081227275,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "99cc68d9-b6dc-49bd-b304-055512b832da",
+      "word": "exotic",
+      "meaning": "外来的，奇异的",
+      "level": 1,
+      "lastReview": 1757159019498,
+      "nextReview": 1757160819498,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "64cf060a-33f2-4dc6-8516-903f283e42ca",
+      "word": "intuition",
+      "meaning": "直觉",
+      "level": 1,
+      "lastReview": 1757161551338,
+      "nextReview": 1757163351338,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "f557f275-45c0-4225-9f7f-78dc8aaa6667",
+      "word": "episodic",
+      "meaning": "暂时的，间断的，爱好和平的",
+      "level": 0,
+      "lastReview": 1757158942377,
+      "nextReview": 1757159302377,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "4477b04b-7b42-486a-b4da-dd2f7dd00394",
+      "word": "realm",
+      "meaning": "领域国度",
+      "level": 4,
+      "lastReview": 1757159050591,
+      "nextReview": 1757180650591,
+      "reviewCount": 4,
+      "mastered": false
+    },
+    {
+      "id": "d035b4fc-8a4e-4889-8777-0aaff4cb3b35",
+      "word": "presage",
+      "meaning": "预测",
+      "level": 0,
+      "lastReview": 1757080976340,
+      "nextReview": 1757081336340,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "265c08c8-45e4-4826-86bb-5a6c52fc8b09",
+      "word": "distinctive",
+      "meaning": "显著区别的",
+      "level": 2,
+      "lastReview": 1757159266659,
+      "nextReview": 1757162866659,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "fba94596-c804-47fa-9d4a-5e8b66381ca1",
+      "word": "concomitant",
+      "meaning": "相伴随的，同时发生的",
+      "level": 1,
+      "lastReview": 1757158696273,
+      "nextReview": 1757160496273,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "f5ac946f-8e1f-4eb9-a316-8d5bb1dd29b9",
+      "word": "abstemious",
+      "meaning": "生活节制的",
+      "level": 1,
+      "lastReview": 1757157503773,
+      "nextReview": 1757159303773,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "c6504c59-e446-4d98-8277-bcca98a1061e",
+      "word": "versatile",
+      "meaning": "多变的，多功能的",
+      "level": 2,
+      "lastReview": 1757158849961,
+      "nextReview": 1757162449961,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "c7e740ed-60a6-4b08-80a5-9d1ad6b6790a",
+      "word": "vacillate",
+      "meaning": "犹豫摇摆的",
+      "level": 0,
+      "lastReview": 1757159149322,
+      "nextReview": 1757159509322,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "a86de4f5-5b88-4b25-b9a6-96f0cb22ff38",
+      "word": "devious",
+      "meaning": "欺骗的，弯曲蜿蜒的",
+      "level": 0,
+      "lastReview": 1757158248328,
+      "nextReview": 1757158608328,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "930ac648-c270-4c81-ae23-1359b1b85fcc",
+      "word": "suffice",
+      "meaning": "足够",
+      "level": 1,
+      "lastReview": 1757158256832,
+      "nextReview": 1757160056832,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "07810976-bfcc-4b5a-8952-958d5046c3f8",
+      "word": "astute",
+      "meaning": "敏锐的",
+      "level": 1,
+      "lastReview": 1757158297078,
+      "nextReview": 1757160097078,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "d8078017-6e3c-4413-8346-5855dc30f853",
+      "word": "outrage",
+      "meaning": "使生气",
+      "level": 0,
+      "lastReview": 1757081139992,
+      "nextReview": 1757081499992,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "5f098cc6-a87f-4544-b457-e6b6fe0bdffb",
+      "word": "consensus",
+      "meaning": "意见一致",
+      "level": 1,
+      "lastReview": 1757161598209,
+      "nextReview": 1757163398209,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "6e21a3a4-ae71-46aa-b723-706a6cc02418",
+      "word": "metaphor",
+      "meaning": "比喻象征",
+      "level": 1,
+      "lastReview": 1757157742366,
+      "nextReview": 1757159542366,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "c675efca-1617-4aa0-b34d-69f002bbdc7f",
+      "word": "outstrip",
+      "meaning": "胜出超出",
+      "level": 0,
+      "lastReview": 1757081195120,
+      "nextReview": 1757081555120,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "4de56139-99b8-4cd1-beb3-222d56885897",
+      "word": "querulous",
+      "meaning": "抱怨的",
+      "level": 1,
+      "lastReview": 1757157924062,
+      "nextReview": 1757159724062,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "6580ca86-668d-41e6-8015-c33956a54e9e",
+      "word": "salient",
+      "meaning": "明显的显眼的",
+      "level": 0,
+      "lastReview": 1757157989152,
+      "nextReview": 1757158349152,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "eb467fe4-aca1-4ff4-843f-c677d3bb5eb0",
+      "word": "culmination",
+      "meaning": "最终，结果",
+      "level": 0,
+      "lastReview": 1757081233189,
+      "nextReview": 1757081593189,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "695cf01d-9f13-4a10-b31a-1bee8e1a340f",
+      "word": "camaraderie",
+      "meaning": "志同道合的情谊",
+      "level": 1,
+      "lastReview": 1757159058309,
+      "nextReview": 1757160858309,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "0e1fab89-1ac6-4589-903e-16855e58d3da",
+      "word": "cordial",
+      "meaning": "热情友好的",
+      "level": 0,
+      "lastReview": 1757158565896,
+      "nextReview": 1757158925896,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "f6f60444-a831-4d7b-8f54-f8f2c1384eff",
+      "word": "tribute",
+      "meaning": "赞美",
+      "level": 0,
+      "lastReview": 1757157351644,
+      "nextReview": 1757157711644,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "5dc6f35a-86fa-4582-b206-feb60f4649d9",
+      "word": "observant",
+      "meaning": "仔细观察的",
+      "level": 1,
+      "lastReview": 1757157847798,
+      "nextReview": 1757159647798,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "1454478b-61eb-44e4-b551-7ed9c5f108f8",
+      "word": "ollegiality",
+      "meaning": "共同掌权",
+      "level": 0,
+      "lastReview": 1757156762067,
+      "nextReview": 1757157122067,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "099cbb15-4c21-4a34-8c4e-22a5907a267f",
+      "word": "pensive",
+      "meaning": "悲伤思考的",
+      "level": 1,
+      "lastReview": 1757159192538,
+      "nextReview": 1757160992538,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "0de530f5-8acc-471c-8fd9-9b2eb208db0f",
+      "word": "penance",
+      "meaning": "忏悔",
+      "level": 0,
+      "lastReview": 1757158500752,
+      "nextReview": 1757158860752,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "6cec4a72-33e4-4c26-8125-22fa3654f116",
+      "word": "rile",
+      "meaning": "使生气",
+      "level": 0,
+      "lastReview": 1757081354020,
+      "nextReview": 1757081714020,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "f564c227-9016-4b71-bd51-14db6c82669a",
+      "word": "lambaste",
+      "meaning": "严厉批评",
+      "level": 0,
+      "lastReview": 1757157571769,
+      "nextReview": 1757157931769,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "dbbb587e-3ea6-4f92-932c-4b1da8896e07",
+      "word": "undercut",
+      "meaning": "削弱",
+      "level": 0,
+      "lastReview": 1757081374676,
+      "nextReview": 1757081734676,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "9f0cb176-f83e-402b-843f-fb21b21f90de",
+      "word": "harrow",
+      "meaning": "折磨，使痛苦，耕地的耙",
+      "level": 2,
+      "lastReview": 1757159293909,
+      "nextReview": 1757162893909,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "04f0c6c2-cd82-4a1e-8df2-d361b4797641",
+      "word": "paradigm",
+      "meaning": "典范",
+      "level": 0,
+      "lastReview": 1757158958792,
+      "nextReview": 1757159318792,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "f2a0c50e-88a7-4374-9de3-b419aa1c38de",
+      "word": "dissent",
+      "meaning": "持不同意见",
+      "level": 1,
+      "lastReview": 1757158761897,
+      "nextReview": 1757160561897,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "f7a60efd-b627-4259-a530-d1bdd3a518b4",
+      "word": "initiate",
+      "meaning": "开始，介绍入门知识",
+      "level": 2,
+      "lastReview": 1757161611084,
+      "nextReview": 1757165211084,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "33398720-9874-40c9-ae42-cf9c27a957c2",
+      "word": "mutual",
+      "meaning": "共同的",
+      "level": 0,
+      "lastReview": 1757081438208,
+      "nextReview": 1757081798208,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "88abfd3c-ac20-410d-b8ae-6f9761053a27",
+      "word": "robust",
+      "meaning": "强壮的，稳定无误的",
+      "level": 1,
+      "lastReview": 1757157132789,
+      "nextReview": 1757158932789,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "75fa5603-8203-47e0-911e-afc8620dc6da",
+      "word": "betoken",
+      "meaning": "预示",
+      "level": 0,
+      "lastReview": 1757156579622,
+      "nextReview": 1757156939622,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "b7963c1d-9002-4840-8196-75f9abff001e",
+      "word": "conceal",
+      "meaning": "隐藏",
+      "level": 0,
+      "lastReview": 1757156451092,
+      "nextReview": 1757156811092,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "3bdad839-afc4-4f63-8b6a-07988452cfad",
+      "word": "outnumber",
+      "meaning": "超过",
+      "level": 1,
+      "lastReview": 1757157792798,
+      "nextReview": 1757159592798,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "8563ec4c-f610-409b-99de-559125f7e8e0",
+      "word": "itinerant",
+      "meaning": "巡游的",
+      "level": 0,
+      "lastReview": 1757156963463,
+      "nextReview": 1757157323463,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "790a3be8-4792-48b0-bffa-1bf136fca198",
+      "word": "demonize",
+      "meaning": "妖魔化",
+      "level": 2,
+      "lastReview": 1757158609197,
+      "nextReview": 1757162209197,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "1c0e38e0-74a9-4bd2-8b94-da8fcbf82f0d",
+      "word": "sober",
+      "meaning": "严肃的",
+      "level": 2,
+      "lastReview": 1757161627760,
+      "nextReview": 1757165227760,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "6173308d-4866-4850-a4ef-8e5d94a219c3",
+      "word": "incendiary",
+      "meaning": "纵火的，引起愤怒的，煽动者",
+      "level": 1,
+      "lastReview": 1757161616314,
+      "nextReview": 1757163416314,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "e1f37679-10d4-421b-9dbf-479d4203ba2c",
+      "word": "salutary",
+      "meaning": "有益健康的",
+      "level": 1,
+      "lastReview": 1757157854871,
+      "nextReview": 1757159654871,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "ec3eccde-a43c-4438-8dd0-d6af6227d8d3",
+      "word": "replete",
+      "meaning": "充满的",
+      "level": 0,
+      "lastReview": 1757081576990,
+      "nextReview": 1757081936990,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "87e2409c-39c5-4a47-bd63-d8c00d96a3ad",
+      "word": "snobbish",
+      "meaning": "自命不凡的",
+      "level": 1,
+      "lastReview": 1757159046281,
+      "nextReview": 1757160846281,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "8dac6bae-e027-4172-aa69-3dfcf9b475b3",
+      "word": "seditious",
+      "meaning": "煽动叛乱的",
+      "level": 0,
+      "lastReview": 1757157634776,
+      "nextReview": 1757157994776,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "f1d35c1d-8ea0-4a5f-86ae-5365d69fc788",
+      "word": "expatrite",
+      "meaning": "驱逐",
+      "level": 0,
+      "lastReview": 1757157951186,
+      "nextReview": 1757158311186,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "79e954af-9f9e-4362-aa04-0669a9bbe95d",
+      "word": "synopsis",
+      "meaning": "概要",
+      "level": 0,
+      "lastReview": 1757158775370,
+      "nextReview": 1757159135370,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "a0941b4c-fea5-444d-b2e5-72038e5b8055",
+      "word": "affirmative",
+      "meaning": "积极肯定的",
+      "level": 0,
+      "lastReview": 1757157405784,
+      "nextReview": 1757157765784,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "286b1059-c33a-4d51-947b-380725753c15",
+      "word": "emmendation",
+      "meaning": "校订",
+      "level": 1,
+      "lastReview": 1757157355754,
+      "nextReview": 1757159155754,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "c5763a2a-d38f-4d27-88f7-2476348f534f",
+      "word": "collective",
+      "meaning": "集体的",
+      "level": 0,
+      "lastReview": 1757157513250,
+      "nextReview": 1757157873250,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "e6fdae9c-665c-430d-8baa-a8742d14601f",
+      "word": "synonymous",
+      "meaning": "同义词，意义相当的",
+      "level": 2,
+      "lastReview": 1757159044667,
+      "nextReview": 1757162644667,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "f510403e-01a7-4674-a8eb-ceec864c6221",
+      "word": "modicum",
+      "meaning": "少量",
+      "level": 0,
+      "lastReview": 1757157766318,
+      "nextReview": 1757158126318,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "7b1885d5-89d9-4281-a765-ecc60665408d",
+      "word": "retrenchment",
+      "meaning": "削减经费",
+      "level": 0,
+      "lastReview": 1757158952530,
+      "nextReview": 1757159312530,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "09f779a1-9916-4ab6-9124-9ca4237bc55f",
+      "word": "magnify",
+      "meaning": "放大夸大",
+      "level": 2,
+      "lastReview": 1757159217176,
+      "nextReview": 1757162817176,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "79b7dedc-e374-4ce1-bb52-6a45881dec4c",
+      "word": "obligatory",
+      "meaning": "强制的必须的",
+      "level": 1,
+      "lastReview": 1757158717467,
+      "nextReview": 1757160517467,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "658c8c82-c86d-40a9-aa03-16b32289c4eb",
+      "word": "commensurate",
+      "meaning": "相似的相等的",
+      "level": 0,
+      "lastReview": 1757157785286,
+      "nextReview": 1757158145286,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "0f3574a4-75b1-451a-97be-292a6a8c03d0",
+      "word": "long-winded",
+      "meaning": "冗长无聊的",
+      "level": 1,
+      "lastReview": 1757158985975,
+      "nextReview": 1757160785975,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "217411a4-dbe9-4be9-890f-7a6053272ded",
+      "word": "slippery",
+      "meaning": "滑的，难懂的，不可靠的",
+      "level": 1,
+      "lastReview": 1757158715026,
+      "nextReview": 1757160515026,
+      "reviewCount": 3,
+      "mastered": false
+    },
+    {
+      "id": "e1e36df2-b894-42fc-9231-e29a6ebd27c7",
+      "word": "hefty",
+      "meaning": "又大又重的",
+      "level": 0,
+      "lastReview": 1757159281047,
+      "nextReview": 1757159641047,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "07a1b619-7a58-49b0-a0cf-43fe83929ecf",
+      "word": "forbidding",
+      "meaning": "令人畏惧的",
+      "level": 0,
+      "lastReview": 1757158984077,
+      "nextReview": 1757159344077,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "08024104-3b36-4ef4-a7f2-768e5575f9fd",
+      "word": "wide-ranging",
+      "meaning": "广泛的",
+      "level": 1,
+      "lastReview": 1757159291357,
+      "nextReview": 1757161091357,
+      "reviewCount": 1,
+      "mastered": false
+    },
+    {
+      "id": "e93d52b5-8fe7-4053-9b8a-316fe23f7772",
+      "word": "diligent",
+      "meaning": "努力刻苦的",
+      "level": 2,
+      "lastReview": 1757161576340,
+      "nextReview": 1757165176340,
+      "reviewCount": 2,
+      "mastered": false
+    },
+    {
+      "id": "77e4bbc0-4bfe-4de3-868b-1b14fad4880f",
+      "word": "punctilious",
+      "meaning": "谨慎小心的",
+      "level": 0,
+      "lastReview": 1757081887550,
+      "nextReview": 1757082247550,
+      "reviewCount": 0,
+      "mastered": false
+    },
+    {
+      "id": "4dca88e3-e184-4bc2-a9d3-4d0029ad94ad",
+      "word": "engaging",
+      "meaning": "吸引人的",
+      "level": 0,
+      "lastReview": 1757081895400,
+      "nextReview": 1757082255400,
+      "reviewCount": 0,
+      "mastered": false
+    }
+  ]
+}

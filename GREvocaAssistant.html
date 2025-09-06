@@ -706,7 +706,7 @@
                                 // 添加新单词
                                 words.push({
                                     ...importWord,
-                                    id: Date.now() + Math.random() // 确保ID唯一
+                                    id: crypto.randomUUID(),//希望不会重复
                                 });
                                 addedCount++;
                             }
